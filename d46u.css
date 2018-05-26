@@ -44,3 +44,9 @@ li {
 p{
 	margin:0
 }
+.r{
+	color:red;
+	font-size:70px;
+		padding: 0;
+    margin-left: 100px; 
+}
