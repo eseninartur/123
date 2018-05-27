@@ -56,3 +56,11 @@ p{
 		padding: 100;
     margin-left: 100px; 
 }
+@media(min-width:0px)and(max-width: 320px){
+	.div {
+		text-align: ceter;
+	}
+	.blue{
+			text-align: ceter;
+	}
+}
