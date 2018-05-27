@@ -33,13 +33,13 @@ li {
 	color:aqua;
 	font-size:20px;
 		padding: 0;
-    margin-left: 300px; 
+    margin-left: 0px; 
 }
 .h{
 	color:lime;
 	font-size:25px;
 	padding: 0;
-    margin-left: 500px; 
+    margin-left: 200px; 
 }
 p{
 	margin:0
